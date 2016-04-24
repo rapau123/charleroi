@@ -1,0 +1,60 @@
+
+@charset "UTF-8";
+/* CSS Document */
+
+/* GENERAL*/
+
+
+.total{
+width:100%;
+height:2000px;
+background-color:#FFFF00;}
+
+.entree{
+width:100%;
+height:200px;
+background-color:red;}
+
+
+
+    .1{
+    width:50%;
+    height:200px;}
+
+.college{
+width:100%;
+height:200px;
+background-color:red;}
+
+.deversoir{
+width:100%;
+height:200px;
+background-color:red;}
+
+.sambre{
+width:100%;
+height:200px;
+background-color:red;}
+
+.moliere{
+width:100%;
+height:200px;
+background-color:red;}
+
+.digue{
+width:100%;
+height:200px;
+background-color:red;}
+
+.montagne{
+width:100%;
+height:200px;
+background-color:red;}
+
+.charles2{width:100%;
+height:200px;
+background-color:red;}
+
+.final{width:100%;
+height:200px;
+background-color:red;}
